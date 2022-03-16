@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mohit-baldoni
+- 👀 I’m a student in Italy interested in Machine Learning
+- 🌱 I’m currently learning about Computer Vision
+- 💪 I'm looking to improve SOTA and get into a good PhD programme
